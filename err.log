@@ -1,0 +1,10 @@
+Collecting mysqlclient
+  Using cached mysqlclient-1.4.6.tar.gz (85 kB)
+Building wheels for collected packages: mysqlclient
+  Building wheel for mysqlclient (setup.py): started
+  Building wheel for mysqlclient (setup.py): finished with status 'error'
+  Running setup.py clean for mysqlclient
+Failed to build mysqlclient
+Installing collected packages: mysqlclient
+    Running setup.py install for mysqlclient: started
+    Running setup.py install for mysqlclient: finished with status 'error'
